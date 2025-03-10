@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://NinaAshAsh.github.io/Mapping-Layers/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in NinaAshAsh/Mapping-Layers project"
+        ]
+    },
+    "items": []
+}
