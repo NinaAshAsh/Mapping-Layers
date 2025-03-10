@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://NinaAshAsh.github.io/Mapping-Layers/annotations/Map1.json" ],
+  "otherContent" : [ "https://NinaAshAsh.github.io/Mapping-Layers/annotations/Map1.json", "https://NinaAshAsh.github.io/Mapping-Layers/annotations/Map2-ver1.json" ],
   "@id" : "https://NinaAshAsh.github.io/Mapping-Layers/annotations/collection.json",
   "label" : "All annotations loaded in NinaAshAsh/Mapping-Layers project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
