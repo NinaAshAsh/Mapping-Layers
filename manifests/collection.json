@@ -20,5 +20,11 @@
     "@type" : "sc:AnnotationList",
     "@id" : "https://NinaAshAsh.github.io/Mapping-Layers/manifests/map1_full_annotations.json",
     "label" : null
+  }, {
+    "id" : "https://NinaAshAsh.github.io/Mapping-Layers/manifests/map1.json",
+    "label" : {
+      "en" : [ "1:100,000 Scale Map of Manchuria and Siberia — No. 23: Jiamusi and Birobidzhan\n" ]
+    },
+    "type" : "Manifest"
   } ]
 }
