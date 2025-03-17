@@ -16,5 +16,9 @@
       "jp" : [ "滿洲及西伯利十万分一圖佳木斯及ビロビッヂャン五號" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:AnnotationList",
+    "@id" : "https://NinaAshAsh.github.io/Mapping-Layers/manifests/map1_full_annotations.json",
+    "label" : null
   } ]
 }
